@@ -56,7 +56,7 @@ body{
 
 /* header */
 #header{
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.35) 100%), url("/public/assets/img/slider03.jpg") top/cover no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.35) 100%), url("public/assets/img/slider03.jpg") top/cover no-repeat;
 }
 .carousel-inner h1{
     font-size: 60px;
@@ -131,7 +131,7 @@ body{
 
 /* offers */
 #offers{
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.35) 100%), url("/public/assets/img/slider02.jpg") center/cover no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.35) 100%), url("public/assets/img/slider02.jpg") center/cover no-repeat;
 }
 #offers .row{
     min-height: 60vh;
